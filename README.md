@@ -379,9 +379,9 @@ Browse the wiki for more documentation and advanced usage techniques.
 
 * Wiki: https://github.com/krishealty/WhoKnows/wiki/
 
-## Sponser
+## Sponsor
 
-WhoKnows is open source and Free forever, if you like my work and want to support it, you consider it by donating or supporting the project here in the [Sponser page.](https://github.com/krishealty/sponser)
+WhoKnows is open source and Free forever, if you like my work and want to support it, you consider it by donating or supporting the project here in the [Sponsor page.](https://github.com/krishealty/sponsor)
 
 Your contribution will shown in this repository README and it will support this project, your efforts are highly appreciated. Thank You for using my program.
 
