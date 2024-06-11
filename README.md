@@ -69,9 +69,7 @@ https://www.reddit.com/ [200 OK] Cookies[edgebucket,eu_cookie_v2,loid,rabt,rseor
     \_/\_/  |_| |_|\___/  |_|\_\_| |_|\___/ \_/\_/ |___/
                                                          
 
-WhoKnows - Next generation web scanner version 0.5.5.
-Developed by Andrew Horton (krishealty) and Brendan Coles (bcoles)
-Homepage: https://morningstarsecurity.com/research/whoknows
+by krishealty
 
 Usage: whoknows [options] <URLs>
 
@@ -383,7 +381,7 @@ Browse the wiki for more documentation and advanced usage techniques.
 
 ## Sponser
 
-WhoKnows is open source and Free forever, if you like my work and want to support it, you consider it by donating or supporting the project here in the [Sponser page.](https://github.com/krishealty/sponser]
+WhoKnows is open source and Free forever, if you like my work and want to support it, you consider it by donating or supporting the project here in the [Sponser page.](https://github.com/krishealty/sponser)
 
 Your contribution will shown in this repository README and it will support this project, your efforts are highly appreciated. Thank You for using my program.
 
