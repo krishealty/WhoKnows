@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-GPLv2-brightgreen.svg)](https://raw.githubusercontent.com/krishealty/whoknows/master/LICENSE) ![Stable Release](https://img.shields.io/badge/stable_release-0.1.1-blue.svg) ![WhoKnows Plugins](https://img.shields.io/badge/plugins-1834-brightgreen.svg) [![Repositories](https://repology.org/badge/tiny-repos/whoknows.svg)](https://repology.org/project/whoknows/versions)
+[![License](https://img.shields.io/badge/license-GPLv2-brightgreen.svg)](https://raw.githubusercontent.com/krishealty/whoknows/master/LICENSE) ![Stable Release](https://img.shields.io/badge/stable_release-0.1.1-blue.svg) ![WhoKnows Plugins](https://img.shields.io/badge/plugins-1000-brightgreen.svg)
 
 <p align=center">
 <img src="wklogo.png">
