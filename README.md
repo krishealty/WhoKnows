@@ -5,8 +5,7 @@
 </p>
 
 # WhoKnows - All in One New generation web scanner
-Developed by Krish Lalwani [krishealty](https://github.com/krishealty/)
-License: GPLv2
+Developed by [krishealty](https://github.com/krishealty/)
 
 This product is subject to the terms detailed in the license agreement. For more information about WhoKnows visit:
 
