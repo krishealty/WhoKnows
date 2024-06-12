@@ -5,7 +5,7 @@
 </p>
 
 # WhoKnows - All in One New generation web scanner
-Developed by [krishealty](https://github.com/krishealty/)
+Developed by [krishealty](https://github.com/krishealty/)<br>
 For full information, check out this [WhoKnows Wiki](https://github.com/krishealty/WhoKnows/wiki/)
 
 This product is subject to the terms detailed in the license agreement. For more information about WhoKnows visit:
