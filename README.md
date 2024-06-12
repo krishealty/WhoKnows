@@ -4,6 +4,15 @@
 <img src="wklogo.png">
 </p>
 
+```
+ __        ___             _  __                        
+ \ \      / / |__   ___   | |/ /_ __   _____      _____ 
+  \ \ /\ / /| '_ \ / _ \  | ' /| '_ \ / _ \ \ /\ / / __|
+   \ V  V / | | | | (_) | | . \| | | | (_) \ V  V /\__ \
+    \_/\_/  |_| |_|\___/  |_|\_\_| |_|\___/ \_/\_/ |___/
+
+```
+                   
 # WhoKnows - All in One New generation web scanner
 Maintained by [krishealty](https://github.com/krishealty/)<br>
 For full information, check out this [WhoKnows Wiki](https://github.com/krishealty/WhoKnows/wiki/)
