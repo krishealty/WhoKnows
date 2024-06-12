@@ -1,6 +1,8 @@
 [![License](https://img.shields.io/badge/license-GPLv2-brightgreen.svg)](https://raw.githubusercontent.com/krishealty/whoknows/master/LICENSE) ![Stable Release](https://img.shields.io/badge/stable_release-0.1.1-blue.svg) ![WhoKnows Plugins](https://img.shields.io/badge/plugins-1834-brightgreen.svg) [![Repositories](https://repology.org/badge/tiny-repos/whoknows.svg)](https://repology.org/project/whoknows/versions)
 
-![logo](https://morningstarsecurity.com/wp-content/uploads/2019/02/WhoKnows-Logo-800px.png "WhoKnows Logo")
+<p align=center">
+<img src="wklogo.png">
+</p>
 
 # WhoKnows - All in One New generation web scanner
 Developed by Krish Lalwani [krishealty](https://github.com/krishealty/)
