@@ -8,7 +8,7 @@
 Developed by [krishealty](https://github.com/krishealty/)<br>
 For full information, check out this [WhoKnows Wiki](https://github.com/krishealty/WhoKnows/wiki/)
 
-This product is subject to the terms detailed in the license agreement. For more information about WhoKnows visit:
+This product is subject to the terms detailed in the license agreement.
 
 If you have any questions, comments or concerns regarding WhoKnows, please consult the documentation prior to contacting one of the developers. Your feedback is always welcome. 
 
