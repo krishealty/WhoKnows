@@ -50,6 +50,12 @@ Most WhoKnows plugins are thorough and recognise a range of cues from subtle to 
 * Custom plugins defined on the command line
 * IDN (International Domain Name) support
 
+## Installation 
+
+Download [Source Code](https://github.com/krishealty/WhoKnows/releases)
+
+Please refer to this [Installation](https://github.com/krishealty/WhoKnows/wiki/Installation) page for full tutorial on installation.
+
 ## Example Usage
 
 Using WhoKnows to scan reddit.com.
@@ -328,6 +334,13 @@ Note the use of the -p argument to select only the phpBB plugin. It is advisable
 
 WhoKnows has no caching so if you use aggressive plugins on redirecting URLs you may fetch the same files multiple times.
 
+## Plugins
+
+Please refer to the [Plugins Wiki](https://github.com/krishealty/WhoKnows/wiki/How-to-develop-WhatWeb-plugins) for full tutorial on plugin development.
+
+WhoKnows lets you identify content management systems (CMS), blogging platforms, stats/analytics packages, javascript libraries, servers and more. When you visit a website in your browser the transaction includes many unseen hints about how the webserver is set up and what software is delivering the webpage. Some of these hints are obvious, eg. "Powered by XYZ" and others are more subtle. WhoKnows recognises these hints and reports what it finds.
+
+WhoKnows has many plugins and needs community support to develop more. Plugins can identify systems with obvious identifying hints removed by also looking for subtle clues. For example, a WordPress site might remove the tag but the WordPress plugin also looks for "wp-content" which is less easy to disguise. Plugins are flexible and can return any datatype, for example plugins can return version numbers, email addresses, account ID's and more.
 
 ## Performance & Stability
 
